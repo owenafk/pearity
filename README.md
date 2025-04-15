@@ -8,7 +8,7 @@
 
 
 
-I’ve finished the initial design of my 3D-printable 10-inch rack-mountable 8-bay JBOD with backplane! That’s a mouthful. Someone suggested the name Pearity so now I'm running with it. This project is how I’ve been teaching myself fushion360, so it’s far from perfect, but I’m learning fast. I got the initial files for this project from Rio Li on MakerWorld: https://makerworld.com/en/models/1229874-10-inch-rack-8-3-drives-bay-jbod#profileId-1248465
+I’ve finished the initial design of my 3D-printable 10-inch rack-mountable 8-bay JBOD with backplane! That’s a mouthful. Someone suggested the name Pearity so now I'm running with it. This project is how I’ve been teaching myself fusion360, so it’s far from perfect, but I’m learning fast. I got the initial files for this project from Rio Li on MakerWorld: https://makerworld.com/en/models/1229874-10-inch-rack-8-3-drives-bay-jbod#profileId-1248465
 
 I recently upgraded my main server to a Mac Mini. Great machine, super-fast and power efficient, tiny footprint. Only downside is no expandable storage. Thankfully it has 4 Thunderbolt ports offering 40Gbps. I don’t need the super high speeds as I’m only wanting to add spinning drives.
 
