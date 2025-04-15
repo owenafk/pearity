@@ -34,6 +34,8 @@ The spacing for the SATA connectors on the backplane is 27.5mm. The spacing of t
 
 There is VERY little space for airflow. Thinner hard drives will allow more airflow which will in turn allow lower temperatures leading to longer life. 
 
+I have the body, faceplate, and caddy files ready to print, but I need better measurements of the Acasis thunderbolt controller and the location of the TB port on it as well as where the mini-SAS headers are when the HBA card is plugged into the m.2 slot. Once I have these measurements I’ll finish the back panel. Right now the USB-C hole on the back is only approximate.
+
 
 Materials:
 
