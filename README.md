@@ -1,10 +1,11 @@
 # pearity
 10 inch Rack Mountable 8 bay Thunderbolt JBOD
 
+<img width="1114" alt="Screenshot 2025-04-04 at 8 13 20 PM" src="https://github.com/user-attachments/assets/d3d1c9c0-4876-4bec-b926-8fc372e995e5" />
 <img width="1128" alt="Screenshot 2025-04-04 at 8 40 01 PM" src="https://github.com/user-attachments/assets/3383ddb6-2c79-4624-aa3c-b2c272ee415c" />
 <img width="1066" alt="Screenshot 2025-04-04 at 8 35 10 PM" src="https://github.com/user-attachments/assets/e3912d3e-6d6a-4a09-a806-5595236a8b51" />
 <img width="1090" alt="Screenshot 2025-04-04 at 8 15 51 PM" src="https://github.com/user-attachments/assets/bd937b18-66fd-48db-80de-05e6691889e4" />
-<img width="1114" alt="Screenshot 2025-04-04 at 8 13 20 PM" src="https://github.com/user-attachments/assets/d3d1c9c0-4876-4bec-b926-8fc372e995e5" />
+
 
 
 I’ve finished the initial design of my 3D-printable 10-inch rack-mountable 8-bay JBOD with backplane! That’s a mouthful. Someone suggested the name Pearity so now I'm running with it. This project is how I’ve been teaching myself fushion360, so it’s far from perfect, but I’m learning fast. I got the initial files for this project from Rio Li on MakerWorld: https://makerworld.com/en/models/1229874-10-inch-rack-8-3-drives-bay-jbod#profileId-1248465
